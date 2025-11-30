@@ -1,0 +1,31 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+.env/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Security/Runtime Files
+.fic_key
+history.json
+history.json.corrupt
+history.json.sig
+integrity_records.json
+integrity_records.json.corrupt
+integrity_records.json.sig
+pin.json
+
+# Backup or temp files
+*.bak
+*.tmp
+*.swp
